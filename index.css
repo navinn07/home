@@ -1,0 +1,13 @@
+body
+{
+	background-color: rgb(220, 220, 255);
+	line-height: 20pt;
+	font-family: Verdana, Lobster, serif;
+	font-size: 10pt
+}
+.imgsource
+{
+	font-size: 7pt;
+	margin-right: 80%;
+	line-height: 8px;
+}
