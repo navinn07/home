@@ -75,7 +75,7 @@
 		
 		<figure class="side">	<!--Class selector to separate text from images in CSS only for this HTML file.-->
 			<img class="img-border" src="Images/siroccokakapo.jpg" alt="Sirocco the kakapo posing for the camera" height="250" />
-			<figcaption>Sirocco the celebrity  kakapo in New Zealand poses for the camera.</figcaption>
+			<figcaption>Sirocco the celebtrity kakapo in New Zealand poses for the camera.</figcaption>
 		</figure>		
 		
 		<h3 id="Appearance">Appearance</h3>

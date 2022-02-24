@@ -119,7 +119,7 @@ p
 	padding-right: 10px;
 }
 
-.validators /*Places validator links at the bottom of the page rather than right underneath text.*/
+.validators
 {
 	position: relative;
 	top: 100px;
