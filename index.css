@@ -2,7 +2,7 @@ body
 {
 	background-color: rgb(255, 255, 225);
 	line-height: 20pt;
-	font-family: "Trebuchet MS", sans-serif;
+	font-family: "Trebuchet MS", Arial, sans-serif;
 	font-size: 12pt;
 }
 
@@ -52,7 +52,7 @@ figcaption
 	font-size: 10pt;
 	line-height: 12px;
 	text-align: left;
-	margin-right: 40%;
+	margin-right: 50%;
 }
 
 .side	/*In order for images to not overlap text.*/
@@ -75,7 +75,7 @@ img[alt]	/*Alters alternate text to be small (so it does not follow the parent e
 	font-weight: lighter;
 }
 
-h2, h3, p
+h2, h3, h4, p
 {
 	text-align: justify;
 	margin-right: 30%;
@@ -110,6 +110,11 @@ p
 	padding-bottom:2%;
 	margin-right: 30%;
 	margin-left: 1%;
+}
+
+.source-list
+{
+	font-size: 10pt;
 }
 
 #present2u
